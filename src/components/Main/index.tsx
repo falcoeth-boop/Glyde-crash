@@ -1,7 +1,7 @@
 import React from "react";
 import "./main.scss";
 import History from "./history";
-import Crash from "../crash";
+import Crash from "../Crash";
 import Bet from "./bet";
 
 export default function Main() {
